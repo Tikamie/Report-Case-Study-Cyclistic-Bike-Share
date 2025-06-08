@@ -9,7 +9,6 @@
 ![Slide8](https://github.com/user-attachments/assets/af92ba55-88c9-4681-9b87-8a0fb4ecfe8e)
 ![Slide9](https://github.com/user-attachments/assets/f45ab924-47f9-4cc6-bb25-a467fc2e7f24)
 
-PDF File : [Cyclist bike Share](https://github.com/user-attachments/files/20646763/Cyclist.bike.Share.-.TCC.do.curso.Google.Data.Analytics.pdf)
-
+Report File : [PPTX](https://github.com/user-attachments/files/20647315/Cyclist.bike.Share.-.TCC.do.curso.Google.Data.Analytics.pptx), [PDF](https://github.com/user-attachments/files/20646763/Cyclist.bike.Share.-.TCC.do.curso.Google.Data.Analytics.pdf)
 
 
