@@ -1,18 +1,15 @@
 # 📊 Full report in English: 📈
-![Slide1](https://github.com/user-attachments/assets/4a2276b7-8e88-4744-971e-01f01a9a3328)
-![Slide2](https://github.com/user-attachments/assets/eb075f92-4a5d-41ed-b7f4-7a4d3e74b38f)
-![Slide3](https://github.com/user-attachments/assets/040f05eb-06d7-467a-ba21-a92543508a9a)
-![Slide4](https://github.com/user-attachments/assets/811aa4de-5b51-4e3e-b820-c6c45d98b79f)
-![Slide5](https://github.com/user-attachments/assets/302189d6-14a6-4ca2-9f77-b2c79ad6fc67)
-![Slide6](https://github.com/user-attachments/assets/0670e94c-c2c0-4ba8-b69b-5882b8522877)
-![Slide7](https://github.com/user-attachments/assets/1c47068a-d6c5-4317-b30d-edda82fa69ab)
-![Slide8](https://github.com/user-attachments/assets/088cced1-5636-4c71-8b28-39e7bcbc6b26)
-![Slide9](https://github.com/user-attachments/assets/178e6ab4-3639-481d-a73e-9ec6c2322a58)
+![Slide1](https://github.com/user-attachments/assets/476ef4e9-a22c-4db2-8c03-490a02174e9d)
+![Slide2](https://github.com/user-attachments/assets/86ad650c-3f27-4a9f-bb6b-94cb851c2178)
+![Slide3](https://github.com/user-attachments/assets/213e4fbe-6c42-4c23-aa6d-4e3266eefe4b)
+![Slide4](https://github.com/user-attachments/assets/357f8e7a-d11b-4565-989d-a1e4e75bb230)
+![Slide5](https://github.com/user-attachments/assets/a78f70e7-cdfc-4d16-a496-d72368bc949f)
+![Slide6](https://github.com/user-attachments/assets/12d2dc94-d798-47ff-96b5-8bb9436eb5ce)
+![Slide7](https://github.com/user-attachments/assets/44168bb3-e1ee-468d-87b5-884386c225ba)
+![Slide8](https://github.com/user-attachments/assets/af92ba55-88c9-4681-9b87-8a0fb4ecfe8e)
+![Slide9](https://github.com/user-attachments/assets/f45ab924-47f9-4cc6-bb25-a467fc2e7f24)
+
+PDF File : [Cyclist bike Share](https://github.com/user-attachments/files/20646763/Cyclist.bike.Share.-.TCC.do.curso.Google.Data.Analytics.pdf)
 
 
 
-
-
-
-
-[PDF File](https://github.com/user-attachments/files/20646378/Cyclist.bike.Share.-.TCC.do.curso.Google.Data.Analytics.pdf)
