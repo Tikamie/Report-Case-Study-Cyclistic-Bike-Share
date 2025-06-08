@@ -1,4 +1,4 @@
-# 📊📈 Full report in English:
+# 📊 Full report in English: 📈
 ![Slide1](https://github.com/user-attachments/assets/4a2276b7-8e88-4744-971e-01f01a9a3328)
 ![Slide2](https://github.com/user-attachments/assets/eb075f92-4a5d-41ed-b7f4-7a4d3e74b38f)
 ![Slide3](https://github.com/user-attachments/assets/040f05eb-06d7-467a-ba21-a92543508a9a)
